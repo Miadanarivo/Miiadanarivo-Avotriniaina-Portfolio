@@ -42,7 +42,7 @@ export default function Hero() {
           transition={{ delay: 0.4 }}
           className="text-4xl md:text-6xl font-bold text-white mb-4 leading-tight"
         >
-          Avotriniaina
+          Nomenjanahary Avotriniaina
           <span className="block gradient-text">Miadanarivo</span>
         </motion.h1>
 

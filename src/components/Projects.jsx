@@ -91,12 +91,12 @@ const projets = [
   {
     categorie: 'Projet Universitaire',
     couleurCat: 'text-violet-400',
-    titre: 'Gestion de Contact',
-    description: 'Application de gestion de contacts avec algorithme de recherche et tri optimisé.',
+    titre: 'Gestion d\'Application annuaire',
+    description: 'Application annuaire téléphonique avec algorithme de recherche et tri optimisé.',
     techs: ['Algorithme', 'Python'],
     couleur: 'from-blue-600/20 to-indigo-600/10',
     border: 'border-blue-800/40',
-    github: 'https://github.com/Miadanarivo',
+    github: 'https://github.com/Miadanarivo/gestion_annuaire_telephonique_python/blob/main/annuaire.py',
   },
   {
     categorie: 'Projet Universitaire',
